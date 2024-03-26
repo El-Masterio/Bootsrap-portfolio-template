@@ -1,6 +1,6 @@
 # Live Preview Link
 
-# (https://el-masterio.github.io/portfolio-template-bootstrap)
+# (https://el-masterio.github.io/Bootsrap-portfolio-template)
 
 
 ## About the Project
